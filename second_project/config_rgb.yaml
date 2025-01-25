@@ -1,0 +1,10 @@
+path: /hpc/home/federico.rovighi/3Dperception/yolov8/data_rgb   #dataset root dir
+train: images/train  # train images (relative to path)
+val: images/train   # validation images (relative to path)
+
+#classes
+names:
+  0: person
+  # 0: person?
+  1: people
+  2: cyclist
