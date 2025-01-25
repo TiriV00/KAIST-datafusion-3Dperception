@@ -52,6 +52,6 @@ performs the NN inference drawing also the bounding boxes, the class and the con
 
 # AUTHORS
 
-Federico Rovighi - MUNER, EEIV - ADE master degree
+Federico Rovighi - MUNER, EEIV - ADE master degree @federovighi
 
 Valerio Tiri - MUNER, EEIV - ADE master degree
