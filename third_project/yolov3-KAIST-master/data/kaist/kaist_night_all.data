@@ -1,0 +1,8 @@
+classes=3
+train_rgb=/hpc/home/federico.rovighi/3Dperception/Kaistdataset/dataset_thirdproject/images/train_rgb/
+train_ir=/hpc/home/federico.rovighi/3Dperception/Kaistdataset/dataset_thirdproject/images/train_ir/
+valid_rgb=/hpc/home/federico.rovighi/3Dperception/Kaistdataset/dataset_thirdproject/images/valid_rgb/
+valid_ir=/hpc/home/federico.rovighi/3Dperception/Kaistdataset/dataset_thirdproject/images/valid_ir/
+names=/hpc/home/federico.rovighi/3Dperception/yolov3-KAIST-master/data/kaist/kaist.names
+backup=backup/
+eval=kaist
